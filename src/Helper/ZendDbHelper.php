@@ -1,5 +1,5 @@
 <?php
-namespace PHPFacile\Zend\Db\Helper
+namespace PHPFacile\Zend\Db\Helper;
 
 use Zend\Db\Adapter\AdapterInterface;
 use Zend\Db\Sql\Expression;

@@ -25,4 +25,4 @@ $expression = ZendDbHelper::getUTCTimestampExpression($adapter);
 ```
 This will return
 * __new Expression('UTC_TIMESTAMP()');__ in case of __MySQL__
-* __new Expression('datetime(\'now\')');__ in case of __SQLIte__
+* __new Expression('datetime(\'now\')');__ in case of __SQLite__
